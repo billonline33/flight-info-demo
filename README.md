@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Welcome to my airport infomration demo - build with React + Redux + Redux-Thunk + Axios
 
 ## 1. Quick Start
@@ -14,7 +12,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `unit test`
 
 `Because of time limit, unit test is pending.`
-
 
 ## 2. Main Feature
 
