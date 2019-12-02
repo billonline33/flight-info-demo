@@ -11,13 +11,10 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### unit test
+### `unit test`
 
-Because of time limit, unit test is pending.
+`Because of time limit, unit test is pending.`
 
-### project strucure
-
-![Project Structure](screenshots/ProjectStructure.PNG)
 
 ## 2. Main Feature
 
@@ -30,3 +27,7 @@ Click on one of the item, it will navigate to the detail page.
 ![detail page](screenshots/FlightDetail.PNG)
 
 Click on Back button, it will return to the master page.
+
+## 3. Project Strucure
+
+![Project Structure](screenshots/ProjectStructure.PNG)
